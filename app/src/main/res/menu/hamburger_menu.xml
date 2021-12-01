@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/primary">
+        <item
+            android:id="@+id/runActivity"
+            android:title="Current Run" />
+        <item
+            android:id="@id/action_global_myRunsFragment"
+            android:title="My Runs" />
+        <item
+            android:id="@id/teamFragment"
+            android:title="Team" />
+        <item
+
+            android:id="@id/scheduledWalkFragment"
+            android:title="Scheduled Walk" />
+        <item
+            android:id="@id/teammateRunsFragment"
+            android:title="Teammate Runs" />
+    </group>
+    <item
+    android:id="@+id/debugFragment"
+    android:title="Debug" />
+</menu>

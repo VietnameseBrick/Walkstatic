@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Walkstatic!</string>
+
+    <string name="current_run">currentRun</string>
+    <string name="proposed_time_run">proposedRun</string>
+
+    <string name="run_name_label">Name:</string>
+    <string name="run_starting_point_label">Starting Point:</string>
+    <string name="run_difficulty_label">Difficulty:</string>
+
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">Close</string>
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="notification">Notifications</string>
+
+    <string name="miles_text">%1$s Miles</string>
+    <string name="steps_text">%1$s Steps</string>
+    <string name="date_text">On: %1$s</string>
+    <string name="time_text">Time: %1$s</string>
+    <string name="scheduled_time_text">Time: %1$s</string>
+    <string name="scheduled_date_text">Date: %1$s</string>
+    <string name="name_empty_error">Name can not be empty.</string>
+    <string name="time_parse_error">Time must be in format HH:mm:ss.SSS.</string>
+
+    <string name="Difficulty_prompt">Choose a difficulty</string>
+    <string-array name="difficulty_array">
+        <item></item>
+        <item>Easy</item>
+        <item>Moderate</item>
+        <item>Difficult</item>
+    </string-array>
+
+    <string name="LoopVsOutAndBack_prompt">Choose a feature</string>
+    <string-array name="loopVsOut_arrays">
+        <item></item>
+        <item>Loop</item>
+        <item>Out-and-Back</item>
+    </string-array>
+
+    <string name="FlatVsHilly_prompt">Choose a feature</string>
+    <string-array name="flatVsHilly_arrays">
+        <item></item>
+        <item>Flat</item>
+        <item>Hilly</item>
+    </string-array>
+
+    <string name="StreetsVsSTrail_prompt">Choose a feature</string>
+    <string-array name="streetVsTrail_arrays">
+        <item></item>
+        <item>Street</item>
+        <item>Trail</item>
+    </string-array>
+
+    <string name="EvenVsUneven_prompt">Choose a feature</string>
+    <string-array name="evenVsUneven_arrays">
+        <item></item>
+        <item>Even Surface</item>
+        <item>Uneven Surface</item>
+    </string-array>
+
+    <string name="favorite_indicator">favorite indicator</string>
+    <string name="start_run">Start Run</string>
+    <string name="user_height">user_height</string>
+    <string name="no_value">--</string>
+    <string name="user_string">user</string>
+
+    <string name="teammate_name">Name:</string>
+    <string name="teammate_name_hint">Teammate Name</string>
+    <string name="teammate_email">Email:</string>
+    <string name="teammate_email_hint">name@gmail.com</string>
+    <string name="invite_done_text">Invite</string>
+    <string name="invite_pending">Pending</string>
+
+    <string name="invitation_requested_text">Team Request From:</string>
+    <string name="requester_name">Requester Name</string>
+    <string name="requester_email">Requester Email</string>
+    <string name="acceptButtonText">Accept</string>
+    <string name="rejectButtonText">Reject</string>
+
+    <string name="going">Going</string>
+    <string name="bad_time">Not Going, Reason: Bad time.</string>
+    <string name="not_good">Not Going, Reason: Not a good route for me.</string>
+
+    <string name="response_header">Send Response</string>
+    <string name="going_button">Im Going</string>
+    <string name="bad_time_button">Not Going, Bad Time</string>
+    <string name="bad_route_button">Not Going, Bad Route</string>
+
+    <string name="no_proposed_run">There is no Proposed Run</string>
+</resources>
